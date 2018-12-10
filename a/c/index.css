@@ -5,3 +5,11 @@
  #discord {
   text-decoration: none;
   }
+
+#soundcloud:hover {
+  color: orange;
+ }
+
+#discord:hover {
+ color: #7289DA;
+ }
